@@ -1,0 +1,6 @@
+MainMenu/Message
+MainMenu/Message/FriendMessage
+MainMenu/Message/ClubMessage
+MainMenu/Message/FriendMessage/friend1
+MainMenu/Message/FriendMessage/friend2
+MainMenu/Message/ClubMessage/club1
